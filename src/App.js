@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-     <Producto precio= {15}
+     <Producto precio= {1500}
     SKU= {155455}
     cantidad_disponible= {5}/>
     </div>
