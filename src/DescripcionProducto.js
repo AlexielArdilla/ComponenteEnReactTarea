@@ -5,7 +5,7 @@ function DescripcionProducto(props){
 
     return(
         <>
-            <p>props.descripcion: {props.descripcion} </p>
+            <p> <b>Descripcion:</b> {props.descripcion} </p>
         </>
     )
 
