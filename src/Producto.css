@@ -1,7 +1,7 @@
 body {
     display: flex;
     align-items: center;
-    justify-content: center;
+    /*justify-content: center;*/
     flex-direction: column;
     height: 60vh;
     gap: 2rem;
@@ -10,5 +10,6 @@ body {
 
   div {
     padding: 25px;
-    margin-top: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
   }
